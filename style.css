@@ -286,7 +286,7 @@ body {
 
 /* === RODAPÉ MINIMALISTA (CERTO) === */
 .footer {
-    background-color: #0F172A; /* Azul muito escuro do seu tema */
+    background-color: #0F172A; /* Azul escuro do tema */
     color: #ffffff;
     text-align: center;
     padding: 100px 20px;
@@ -308,7 +308,7 @@ body {
     flex-wrap: wrap;
 }
 
-/* A estrutura do botão sublinhado em branco que você pediu */
+/* A estrutura do botão sublinhado em branco */
 .contact-line,
 .contact-line:visited,
 .contact-line:active {
